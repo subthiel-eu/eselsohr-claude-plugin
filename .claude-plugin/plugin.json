@@ -1,0 +1,15 @@
+{
+  "name": "eselsohr",
+  "version": "1.1.0",
+  "description": "Deine Bücher, Lesekreise, Termine und Ausleihen aus Eselsohr in Claude, nur lesend.",
+  "author": {
+    "name": "subthiel.eu",
+    "url": "https://subthiel.eu"
+  },
+  "homepage": "https://mein-eselsohr.de",
+  "repository": "https://github.com/subthiel-eu/eselsohr-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://mein-eselsohr.de/privacy",
+  "icon": "./assets/icon.png",
+  "keywords": ["bücher", "lesekreis", "buchclub", "lesen", "leseliste"]
+}

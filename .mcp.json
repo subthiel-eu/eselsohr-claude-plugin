@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eselsohr": {
+      "type": "http",
+      "url": "https://mein-eselsohr.de/mcp"
+    }
+  }
+}

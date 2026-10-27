@@ -1,0 +1,17 @@
+{
+  "name": "eselsohr",
+  "metadata": {
+    "description": "Eselsohr für Claude: Bücher, Lesekreise, Termine und Ausleihen, nur lesend."
+  },
+  "owner": {
+    "name": "subthiel.eu",
+    "url": "https://subthiel.eu"
+  },
+  "plugins": [
+    {
+      "name": "eselsohr",
+      "source": "./",
+      "description": "Deine Bücher, Lesekreise, Termine und Ausleihen aus Eselsohr in Claude, nur lesend."
+    }
+  ]
+}
